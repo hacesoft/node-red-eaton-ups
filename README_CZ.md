@@ -16,7 +16,7 @@ Součástí modulu je:
 * **Komplexní uživatelské rozhraní** (Dashboard v2 Panel & dvouosý SVG graf historie).
 * **Konfigurační rozhraní** pro nastavení parametrů přímo z Dashboardu bez nutnosti úpravy kódu.
 * **Ukládání konfigurace** do persistentního JSON souboru.
-* **Poskytování provozních dat** do nadřazených systémů přes globální proměnné, veřejné REST API a archivaci v Nextcloud aplikaci GridSight.
+* **Poskytování provozních dat** do nadřazených systémů přes globální proměnné, veřejné REST API a archivaci v aplikaci GridSight na platformě [Nextcloud - Open source content collaboration platform](https://nextcloud.com/).
 
 ---
 
