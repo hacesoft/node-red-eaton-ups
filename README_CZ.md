@@ -4,6 +4,7 @@
 
 <img width="405" height="640" alt="image" src="https://github.com/user-attachments/assets/dedcc061-7939-4db8-b521-5785e930d694" />
 
+
 # Module UPS Eaton / NUT pro Node-RED
 
 Tento modul zajišťuje integraci zdroje nepřerušitelného napájení (UPS) Eaton (a jakýchkoli dalších záložních zdrojů podporujících protokol **NUT – Network UPS Tools**) do prostředí Node-RED.
@@ -15,7 +16,7 @@ Součástí modulu je:
 * **Komplexní uživatelské rozhraní** (Dashboard v2 Panel & dvouosý SVG graf historie).
 * **Konfigurační rozhraní** pro nastavení parametrů přímo z Dashboardu bez nutnosti úpravy kódu.
 * **Ukládání konfigurace** do persistentního JSON souboru.
-* **Poskytování provozních dat** do nadřazených systémů přes globální proměnné a LINEA / REST API.
+* **Poskytování provozních dat** do nadřazených systémů přes globální proměnné, veřejné REST API a archivaci v Nextcloud aplikaci GridSight.
 
 ---
 
