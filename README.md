@@ -1,8 +1,8 @@
-[🇨🇿 **Česky**](README_CZ.md) | [🇬🇧 English](README.md)
+[🇨🇿 Česky](README_CZ.md) | [🇬🇧 **English**](README.md)
 
 ---
 
-<img width="411" height="975" alt="image" src="https://github.com/user-attachments/assets/01df90d4-a778-49f3-932d-f3fd432a09dc" />
+<img width="405" height="640" alt="image" src="https://github.com/user-attachments/assets/dedcc061-7939-4db8-b521-5785e930d694" />
 
 # Eaton / NUT UPS Module for Node-RED
 
