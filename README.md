@@ -1,4 +1,4 @@
-[🇨🇿 Česky](README_CZ.md) | [🇬🇧 **English**](README.md)
+[🇨🇿 **Česky**](README_CZ.md) | [🇬🇧 English](README.md) | [Linea project](https://github.com/hacesoft/Linea)
 
 # Eaton / NUT UPS Module for Node-RED
 
